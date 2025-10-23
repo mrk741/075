@@ -82,8 +82,8 @@
           "settings": {
             "logo_type": "image",
             "image_logo": "shopify://shop_images/OTS-square-logo.png",
-            "desktop_logo_width": 100,
-            "mobile_logo_width": 60,
+            "desktop_logo_width": 80,
+            "mobile_logo_width": 50,
             "text_logo": "",
             "logo_font": "prompt_n5",
             "desktop_logo_font_size": 20,
@@ -97,8 +97,8 @@
       "custom_css": [],
       "settings": {
         "header_layout": "logo_center_menu_left",
-        "sticky_header": "always",
-        "menu": "",
+        "sticky_header": "on_scroll",
+        "menu": "main-menu",
         "parent_menu": true,
         "dropdown_icon": "disable",
         "dropdown_event_type": "hover",
