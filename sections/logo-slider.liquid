@@ -77,11 +77,11 @@
   {% endif %}
   @media screen and (max-width: 1600px) {
     #shopify-section-{{ section.id }} {
-      {% if desktop_item_size == 8 %}
+      {% if desktop_item_size == 15 %}
         --reduce-items: 2;
       {% endif %}
     }
-    {% if desktop_item_size == 8 and section.blocks.size >= 7 %}
+    {% if desktop_item_size == 15 and section.blocks.size >= 7 %}
       #shopify-section-{{ section.id }} .slider__grid--center {
         justify-content: flex-start;
       }
@@ -89,18 +89,18 @@
   }
   @media screen and (max-width: 1400px) {
     #shopify-section-{{ section.id }} {
-      {% if desktop_item_size == 8 %}
+      {% if desktop_item_size == 15 %}
         --reduce-items: 3;
-      {% elsif desktop_item_size == 7 %}
+      {% elsif desktop_item_size == 14 %}
         --reduce-items: 2;
       {% endif %}
     }
-    {% if desktop_item_size == 8 and section.blocks.size >= 6 %}
+    {% if desktop_item_size == 15 and section.blocks.size >= 6 %}
       #shopify-section-{{ section.id }} .slider__grid--center {
         justify-content: flex-start;
       }
     {% endif %}
-    {% if desktop_item_size == 7 and section.blocks.size >= 6 %}
+    {% if desktop_item_size == 14 and section.blocks.size >= 6 %}
       #shopify-section-{{ section.id }} .slider__grid--center {
         justify-content: flex-start;
       }
@@ -108,25 +108,25 @@
   }
   @media screen and (max-width: 1300px) {
     #shopify-section-{{ section.id }} {
-      {% if desktop_item_size == 8 %}
+      {% if desktop_item_size == 15 %}
         --reduce-items: 4;
-      {% elsif desktop_item_size == 7 %}
+      {% elsif desktop_item_size == 14 %}
         --reduce-items: 3;
-      {% elsif desktop_item_size == 6 %}
+      {% elsif desktop_item_size == 13 %}
         --reduce-items: 2;
       {% endif %}
     }
-    {% if desktop_item_size == 8 and section.blocks.size >= 5 %}
+    {% if desktop_item_size == 15 and section.blocks.size >= 10 %}
       #shopify-section-{{ section.id }} .slider__grid--center {
         justify-content: flex-start;
       }
     {% endif %}
-    {% if desktop_item_size == 7 and section.blocks.size >= 5 %}
+    {% if desktop_item_size == 14 and section.blocks.size >= 10 %}
       #shopify-section-{{ section.id }} .slider__grid--center {
         justify-content: flex-start;
       }
     {% endif %}
-    {% if desktop_item_size == 6 and section.blocks.size >= 5 %}
+    {% if desktop_item_size == 13 and section.blocks.size >= 10 %}
       #shopify-section-{{ section.id }} .slider__grid--center {
         justify-content: flex-start;
       }
