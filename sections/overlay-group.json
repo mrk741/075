@@ -294,59 +294,11 @@
         "target_blank": false,
         "color_scheme": ""
       }
-    },
-    "age_verification_DaWrH7": {
-      "type": "age-verification",
-      "blocks": {
-        "heading_U8Xakj": {
-          "type": "heading",
-          "settings": {
-            "heading": "You must be over 21 years old to visit this site",
-            "heading_style": "section-heading",
-            "heading_tag": "h2"
-          }
-        },
-        "text_YYiXdt": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Please, verify your age.</p>",
-            "richtext_heading_style": "section-heading",
-            "text_style": "body-font"
-          }
-        },
-        "verification_buttons_UpbWwc": {
-          "type": "verification_buttons",
-          "settings": {
-            "accept_button_label": "I am over 21",
-            "accept_button_icon": "",
-            "swap_accept_button_icon": false,
-            "decline_button_label": "I am under 21",
-            "decline_button_icon": "",
-            "swap_decline_button_icon": false,
-            "decline_button_link": "",
-            "use_main_button": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_U8Xakj",
-        "text_YYiXdt",
-        "verification_buttons_UpbWwc"
-      ],
-      "name": "t:sections.age_verification.name",
-      "settings": {
-        "frequency": "0",
-        "center_text": true,
-        "fill_content": true,
-        "overlay_opacity": 50,
-        "color_scheme": ""
-      }
     }
   },
   "order": [
     "cart_drawer_bxxHND",
     "menu-drawer",
-    "popup_n7Kn8F",
-    "age_verification_DaWrH7"
+    "popup_n7Kn8F"
   ]
 }
