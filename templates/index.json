@@ -330,113 +330,133 @@
         "bottom_spacing": 0.8
       }
     },
-    "logo_slider_m7VXqp": {
-      "type": "logo-slider",
+    "scrolling_promotion_mMgrek": {
+      "type": "scrolling-promotion",
       "blocks": {
-        "logo_4YzrCr": {
-          "type": "logo",
+        "context_image_L9wGgP": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/newloo.avif",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/newloo.avif",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_fAdqRw": {
-          "type": "logo",
+        "context_image_tWdC7A": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/shein.avif",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/shein.avif",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_Fi7PiA": {
-          "type": "logo",
+        "context_image_Dfqyj8": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/pngwing.com_75_300x300_f8a1fafe-6dbd-487e-8efe-b5aca2d2d850.avif",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/next.avif",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_e4nDRL": {
-          "type": "logo",
+        "context_image_MVPmwP": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/adidas.webp",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/mango.webp",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_hUJDea": {
-          "type": "logo",
+        "context_image_t3L9Pt": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/tommy.webp",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/f_f.webp",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_iKYjpi": {
-          "type": "logo",
+        "context_image_QPPD4y": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/next.avif",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/Pretty_Little_Thing.webp",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_na9D46": {
-          "type": "logo",
+        "context_image_UHmbwj": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/next.avif",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/Levis.webp",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_mXTwxJ": {
-          "type": "logo",
+        "context_image_rAC7yG": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/next.avif",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/tommy.webp",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         },
-        "logo_c7hfB3": {
-          "type": "logo",
+        "context_image_MpTfpR": {
+          "type": "context_image",
           "settings": {
-            "image": "shopify://shop_images/next.avif",
-            "link": "",
-            "target_blank": false
+            "context_image": "shopify://shop_images/Pretty_Little_Thing.webp",
+            "context_image_width": 120,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false
           }
         }
       },
       "block_order": [
-        "logo_4YzrCr",
-        "logo_fAdqRw",
-        "logo_Fi7PiA",
-        "logo_e4nDRL",
-        "logo_hUJDea",
-        "logo_iKYjpi",
-        "logo_na9D46",
-        "logo_mXTwxJ",
-        "logo_c7hfB3"
+        "context_image_L9wGgP",
+        "context_image_tWdC7A",
+        "context_image_Dfqyj8",
+        "context_image_MVPmwP",
+        "context_image_t3L9Pt",
+        "context_image_QPPD4y",
+        "context_image_UHmbwj",
+        "context_image_rAC7yG",
+        "context_image_MpTfpR"
       ],
-      "name": "t:sections.logo-slider.name",
+      "name": "t:sections.scrolling-promotion.name",
       "settings": {
-        "heading": "Brands You Love",
-        "heading_style": "page-title",
-        "heading_tag": "h1",
-        "button_label": "",
-        "button_icon": "",
-        "swap_button_icon": true,
-        "button_link": "",
-        "target_blank": false,
-        "center_text": true,
-        "desktop_item_width": 8,
-        "alignment_fewer_items": "left",
-        "mobile_item_min_width": 250,
-        "show_arrows": false,
-        "show_scrollbar": true,
+        "font_style": "section-heading",
+        "line_show": "disable",
+        "line_padding": 24,
+        "gap_items": 48,
+        "mobile_gap_items": 48,
+        "scroll_direction": "left",
+        "speed": 1.6,
+        "use_main_button": false,
         "full_width": false,
         "grid_style": "page",
         "disable_max_width": false,
-        "show_bottom_line": false,
         "color_scheme": "",
         "section_framing": "disable",
         "top_spacing": 1,
@@ -447,6 +467,6 @@
   "order": [
     "slideshow_Q6zVdp",
     "collection_tabs_BEiYX3",
-    "logo_slider_m7VXqp"
+    "scrolling_promotion_mMgrek"
   ]
 }
