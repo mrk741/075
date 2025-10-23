@@ -159,7 +159,7 @@
             "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> im Warenkorb",
             "note": "Mengenregeln anzeigen"
           },
-          "volume_pricing": {
+          "mrk_pricing": {
             "title": "Mengenpreise",
             "note": "Mengenpreise verfügbar",
             "minimum": "{{ quantity }}+",

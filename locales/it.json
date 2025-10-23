@@ -159,7 +159,7 @@
             "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> nel carrello",
             "note": "Visualizza regole quantità"
           },
-          "volume_pricing": {
+          "mrk_pricing": {
             "title": "Prezzo per quantità",
             "note": "Disponibile prezzo per quantità",
             "minimum": "{{ quantity }}+",

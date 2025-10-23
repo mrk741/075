@@ -293,7 +293,7 @@
             "name": "Icônes",
             "settings": {
               "paragraph__1": {
-                "content": "Les icônes disponibles dans le thème se trouvent sur [cette page](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons). [En savoir plus](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4) sur leur configuration."
+                "content": "Les icônes disponibles dans le thème se trouvent sur [cette page](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons). [En savoir plus](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4) sur leur configuration."
               },
               "burger_icon": {
                 "label": "Icône du menu burger",
@@ -1197,19 +1197,19 @@
         "icons": {
             "icon": {
               "label": "Icône",
-              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
+              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
             },
             "icon_1": {
               "label": "Icône 1",
-              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
+              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
             },
             "icon_2": {
               "label": "Icône 2",
-              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
+              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
             },
             "icon_3": {
               "label": "Icône 3",
-              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
+              "info": "Accédez à la [page du catalogue d’icônes](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copiez le chemin de l’icône souhaitée, puis collez-le dans le champ. Exemple : glyphs\/arrows\/arrow-down."
             },
             "custom_icon": {
               "label": "Icône personnalisée"

@@ -573,7 +573,7 @@ function playVimeoVideo(video, isAutoplayEnabled = false) {
 
   if (isAutoplayEnabled) {
     video.contentWindow?.postMessage(
-      JSON.stringify({ method: 'setVolume', value: 0 }),
+      JSON.stringify({ method: 'setmrk', value: 0 }),
       '*'
     );
   }
@@ -762,7 +762,7 @@ function isStorageSupported (type) {
   if (window.self !== window.top) {
     return false;
   }
-  const testKey = 'volume-theme:test';
+  const testKey = 'mrk-theme:test';
   let storage;
   if (type === 'session') {
     storage = window.sessionStorage;
@@ -1643,8 +1643,8 @@ class Breadcrumbs extends HTMLElement {
 
     this.template = this.dataset.currentTemplate
     if (this.template != 'product' && this.template != 'collection') return
-    this.cookieName = 'volume-theme:active-category'
-    this.cookieUrl = 'volume-theme:active-category-url'
+    this.cookieName = 'mrk-theme:active-category'
+    this.cookieUrl = 'mrk-theme:active-category-url'
     this.storageItem = this.querySelector('.breadcrumbs__item--storage')
     this.metafieldItem = this.querySelector('.breadcrumbs__item--metafield')
     this.menuItems = document.querySelectorAll('.menu__list a')
@@ -2947,7 +2947,7 @@ class ProductRecentlyViewed extends HTMLElement {
     // Save the product ID in local storage to be eventually used for recently viewed section
     if (isStorageSupported('local')) {
       const productId = parseInt(this.dataset.productId);
-      const cookieName = 'volume-theme:recently-viewed';
+      const cookieName = 'mrk-theme:recently-viewed';
       const items = JSON.parse(window.localStorage.getItem(cookieName) || '[]');
 
       // Check if the current product already exists, and if it does not, add it at the start
@@ -3015,7 +3015,7 @@ class RecentlyViewedProducts extends HTMLElement {
   }
 
   getQueryString() {
-    const cookieName = 'volume-theme:recently-viewed';
+    const cookieName = 'mrk-theme:recently-viewed';
     let items = JSON.parse(window.localStorage.getItem(cookieName) || "[]");
     items = items.filter(item => item != null)
     if (this.dataset.productId && items.includes(parseInt(this.dataset.productId))) {
@@ -3977,8 +3977,8 @@ class DetailsDropdown extends HTMLElement {
     this.lastScrollPos = 0
     this.megaMenu = this.querySelector('.mega-menu')
     this.header = document.querySelector('.shopify-section-header')
-    this.cookieName = 'volume-theme:active-category';
-    this.cookieUrl = 'volume-theme:active-category-url'
+    this.cookieName = 'mrk-theme:active-category';
+    this.cookieUrl = 'mrk-theme:active-category-url'
     this.hoverTimeout = null;
     this.init()
     window.addEventListener('resize', this.init.bind(this))

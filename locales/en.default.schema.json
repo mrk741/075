@@ -293,7 +293,7 @@
       "name": "Icons",
       "settings": {
         "paragraph__1": {
-          "content": "The icons available in the theme can be found on [this page](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons). [Learn more](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4 ) about how to set them up."
+          "content": "The icons available in the theme can be found on [this page](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons). [Learn more](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4 ) about how to set them up."
         },
         "burger_icon": {
           "label": "Burger icon",
@@ -1197,19 +1197,19 @@
       "icons": {
         "icon": {
           "label": "Icon",
-          "info": "Go to the [icon catalog page](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
+          "info": "Go to the [icon catalog page](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
         },
         "icon_1": {
           "label": "Icon 1",
-          "info": "Go to the [icon catalog page](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
+          "info": "Go to the [icon catalog page](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
         },
         "icon_2": {
           "label": "Icon 2",
-          "info": "Go to the [icon catalog page](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
+          "info": "Go to the [icon catalog page](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
         },
         "icon_3": {
           "label": "Icon 3",
-          "info": "Go to the [icon catalog page](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
+          "info": "Go to the [icon catalog page](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copy the path by clicking on the desired icon, and paste it into the field. Example: glyphs\/arrows\/arrow-down."
         },
         "custom_icon": {
           "label": "Custom icon"

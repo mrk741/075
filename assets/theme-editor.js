@@ -7,7 +7,7 @@ if (!localStorage.getItem('theme-loaded') || localStorage.getItem('theme-loaded'
     mode: 'cors',
     body: new URLSearchParams({
       shop: Shopify.shop,
-      theme: theme.info?.name ?? 'Volume',
+      theme: theme.info?.name ?? 'mrk',
       version: theme.info?.version ?? '2.2',
       role: themeRole,
       contact: document.querySelector('script[src*=theme-editor][data-contact]')?.dataset.contact,

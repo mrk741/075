@@ -159,9 +159,9 @@
             "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> dans le panier",
             "note": "Voir les règles de quantité"
           },
-          "volume_pricing": {
-            "title": "Tarification en volume",
-            "note": "Tarification par volume disponible",
+          "mrk_pricing": {
+            "title": "Tarification en mrk",
+            "note": "Tarification par mrk disponible",
             "minimum": "{{ quantity }}+",
             "price_at_each": "à {{ price }}/u",
             "price_range": "{{ minimum }} - {{ maximum }}"

@@ -293,7 +293,7 @@
             "name": "Iconos",
             "settings": {
               "paragraph__1": {
-                "content": "Los iconos disponibles en el tema se pueden encontrar en [esta página](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons). [Más información](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4) sobre cómo configurarlos."
+                "content": "Los iconos disponibles en el tema se pueden encontrar en [esta página](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons). [Más información](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4) sobre cómo configurarlos."
               },
               "burger_icon": {
                 "label": "Icono de menú hamburguesa",
@@ -1197,19 +1197,19 @@
         "icons": {
             "icon": {
               "label": "Ícono",
-              "info": "Ve a la [página del catálogo de íconos](https://volume-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
+              "info": "Ve a la [página del catálogo de íconos](https://mrk-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
             },
             "icon_1": {
               "label": "Ícono 1",
-              "info": "Ve a la [página del catálogo de íconos](https://volume-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
+              "info": "Ve a la [página del catálogo de íconos](https://mrk-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
             },
             "icon_2": {
               "label": "Ícono 2",
-              "info": "Ve a la [página del catálogo de íconos](https://volume-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
+              "info": "Ve a la [página del catálogo de íconos](https://mrk-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
             },
             "icon_3": {
               "label": "Ícono 3",
-              "info": "Ve a la [página del catálogo de íconos](https://volume-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
+              "info": "Ve a la [página del catálogo de íconos](https://mrk-theme-fashion.myshopify.com/pages/icons), copia la ruta haciendo clic en el ícono deseado y pégala en el campo. Ejemplo: glyphs/arrows/arrow-down."
             },
             "custom_icon": {
               "label": "Ícono personalizado"

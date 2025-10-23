@@ -293,7 +293,7 @@
             "name": "Symbole",
             "settings": {
               "paragraph__1": {
-                "content": "Die im Theme verfügbaren Symbole findest du auf [dieser Seite](https://volume-theme-fashion.myshopify.com/pages/icons). [Mehr erfahren](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4), wie du sie einrichtest."
+                "content": "Die im Theme verfügbaren Symbole findest du auf [dieser Seite](https://mrk-theme-fashion.myshopify.com/pages/icons). [Mehr erfahren](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4), wie du sie einrichtest."
               },
               "burger_icon": {
                 "label": "Burger-Symbol",
@@ -1197,19 +1197,19 @@
         "icons": {
             "icon": {
               "label": "Symbol",
-              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
+              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
             },
             "icon_1": {
               "label": "Symbol 1",
-              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
+              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
             },
             "icon_2": {
               "label": "Symbol 2",
-              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
+              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
             },
             "icon_3": {
               "label": "Symbol 3",
-              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
+              "info": "Gehe zur [Symbolkatalog-Seite](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), klicke auf das gewünschte Symbol und kopiere den Pfad. Beispiel: glyphs\/arrows\/arrow-down."
             },
             "custom_icon": {
               "label": "Benutzerdefiniertes Symbol"

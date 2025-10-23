@@ -566,7 +566,7 @@
     }
   },
   "presets": {
-    "Volume": {
+    "mrk": {
       "heading_font_main": "instrument_serif_n4",
       "heading_font_secondary": "instrument_serif_i4",
       "heading_base_size": 40,

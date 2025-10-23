@@ -293,7 +293,7 @@
             "name": "Icone",
             "settings": {
               "paragraph__1": {
-                "content": "Le icone disponibili nel tema sono consultabili su [questa pagina](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons). [Scopri di più](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4) su come impostarle."
+                "content": "Le icone disponibili nel tema sono consultabili su [questa pagina](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons). [Scopri di più](https://staylime.notion.site/Icons-196f0d8b96a8804cb9def91f05a9b147?pvs=4) su come impostarle."
               },
               "burger_icon": {
                 "label": "Icona menu burger",
@@ -1197,19 +1197,19 @@
         "icons": {
             "icon": {
               "label": "Icona",
-              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
+              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
             },
             "icon_1": {
               "label": "Icona 1",
-              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
+              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
             },
             "icon_2": {
               "label": "Icona 2",
-              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
+              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
             },
             "icon_3": {
               "label": "Icona 3",
-              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/volume-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
+              "info": "Vai alla [pagina del catalogo delle icone](https:\/\/mrk-theme-fashion.myshopify.com\/pages\/icons), copia il percorso cliccando sull'icona desiderata e incollalo nel campo. Esempio: glyphs\/arrows\/arrow-down."
             },
             "custom_icon": {
               "label": "Icona personalizzata"
