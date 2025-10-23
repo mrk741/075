@@ -831,6 +831,95 @@
         "top_spacing": 2,
         "bottom_spacing": 2
       }
+    },
+    "collapsible_tabs_ekEtGz": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "topic_zfDVMR": {
+          "type": "topic",
+          "settings": {
+            "heading": "Topic",
+            "heading_style": "subheading-font",
+            "text": "<p>Optional description of the group of questions.</p>",
+            "text_style": "body-font",
+            "button_label": "",
+            "button_icon": "",
+            "swap_button_icon": false,
+            "button_link": "",
+            "target_blank": false,
+            "button_style": "solid"
+          }
+        },
+        "tab_mAP7Jb": {
+          "type": "tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "heading_style": "subheading-font",
+            "uppercase": false,
+            "bolder_font": false,
+            "text": "<p>Collapsible tab content.</p>",
+            "richtext_heading_style": "section-heading",
+            "text_style": "body-font",
+            "icon": "",
+            "color": "#000000",
+            "mobile_color": "#000000",
+            "page": "",
+            "rte_heading_style": "section-heading",
+            "page_style": "body-font"
+          }
+        },
+        "tab_warErE": {
+          "type": "tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "heading_style": "subheading-font",
+            "uppercase": false,
+            "bolder_font": false,
+            "text": "<p>Collapsible tab content.</p>",
+            "richtext_heading_style": "section-heading",
+            "text_style": "body-font",
+            "icon": "",
+            "color": "#000000",
+            "mobile_color": "#000000",
+            "page": "",
+            "rte_heading_style": "section-heading",
+            "page_style": "body-font"
+          }
+        }
+      },
+      "block_order": [
+        "topic_zfDVMR",
+        "tab_mAP7Jb",
+        "tab_warErE"
+      ],
+      "name": "t:sections.collapsible_tabs.name",
+      "settings": {
+        "subheading": "",
+        "subheading_style": "subheading-font",
+        "subheading_tag": "h3",
+        "heading": "FAQ's",
+        "heading_style": "section-heading",
+        "heading_tag": "h2",
+        "text": "",
+        "text_style": "body-font",
+        "center_text": false,
+        "button_label": "View all",
+        "button_icon": "",
+        "swap_button_icon": false,
+        "button_link": "",
+        "target_blank": false,
+        "button_style": "solid",
+        "swap_media_position": false,
+        "media_size": "half",
+        "media_ratio": "auto",
+        "grid_style": "alternative",
+        "disable_max_width": false,
+        "show_bottom_line": false,
+        "color_scheme": "",
+        "section_framing": "disable",
+        "top_spacing": 1,
+        "bottom_spacing": 1
+      }
     }
   },
   "order": [
@@ -839,6 +928,7 @@
     "scrolling_promotion_mMgrek",
     "collection_tabs_BnP9j7",
     "featured_collection_with_media_iErEJL",
-    "testimonials_Cr9FRe"
+    "testimonials_Cr9FRe",
+    "collapsible_tabs_ekEtGz"
   ]
 }
