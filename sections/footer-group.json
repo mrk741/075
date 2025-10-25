@@ -126,6 +126,12 @@
             "desktop_height": 0
           }
         },
+        "empty_space_3BPY6w": {
+          "type": "empty_space",
+          "settings": {
+            "desktop_height": 0
+          }
+        },
         "block_image_8GiFgV": {
           "type": "block_image",
           "settings": {
@@ -154,6 +160,7 @@
         "social_media_XDzfHR",
         "empty_space_VJJjiX",
         "empty_space_zXCgfj",
+        "empty_space_3BPY6w",
         "block_image_8GiFgV"
       ],
       "settings": {
