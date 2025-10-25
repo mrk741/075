@@ -149,9 +149,9 @@
           "settings": {
             "subheading": "CONNECT WITH US",
             "follow_on_shop": false,
-            "center_text": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-start",
+            "center_text": true,
+            "horizontal_alignment": "center",
+            "vertical_alignment": "center",
             "desktop_padding": 0
           }
         },
@@ -165,35 +165,8 @@
             "mobile_media_ratio": "auto",
             "block_image_link": "",
             "target_blank": false,
-            "center_text": false,
-            "vertical_alignment": "flex-start",
-            "desktop_padding": 0
-          }
-        },
-        "buttons_4PTBgx": {
-          "type": "buttons",
-          "settings": {
-            "use_main_button": true,
-            "button_icon_1": "",
-            "swap_button_icon_1": false,
-            "button_label_1": "Discover",
-            "button_link_1": "",
-            "target_blank_1": false,
-            "button_style_1": "solid",
-            "button_icon_2": "",
-            "swap_button_icon_2": false,
-            "button_label_2": "Discover",
-            "button_link_2": "",
-            "target_blank_2": false,
-            "button_style_2": "solid",
-            "button_icon_3": "",
-            "swap_button_icon_3": false,
-            "button_label_3": "Discover",
-            "button_link_3": "",
-            "target_blank_3": false,
-            "button_style_3": "solid",
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-start",
+            "center_text": true,
+            "vertical_alignment": "center",
             "desktop_padding": 0
           }
         }
@@ -205,11 +178,10 @@
         "social_media_c484Fm",
         "newsletter_74khwT",
         "social_media_XDzfHR",
-        "block_image_8GiFgV",
-        "buttons_4PTBgx"
+        "block_image_8GiFgV"
       ],
       "settings": {
-        "grid_columns": "3",
+        "grid_columns": "4",
         "two_columns_mobile": true,
         "grid_style": "alternative",
         "disable_max_width": true,
