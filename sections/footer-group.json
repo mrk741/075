@@ -113,6 +113,7 @@
         },
         "empty_space_egfMbR": {
           "type": "empty_space",
+          "disabled": true,
           "settings": {
             "desktop_height": 1
           }
@@ -130,18 +131,21 @@
         },
         "empty_space_VJJjiX": {
           "type": "empty_space",
+          "disabled": true,
           "settings": {
             "desktop_height": 0
           }
         },
         "empty_space_zXCgfj": {
           "type": "empty_space",
+          "disabled": true,
           "settings": {
             "desktop_height": 0
           }
         },
         "empty_space_3BPY6w": {
           "type": "empty_space",
+          "disabled": true,
           "settings": {
             "desktop_height": 0
           }
