@@ -144,13 +144,14 @@
             "desktop_padding": 0
           }
         },
-        "payment_methods_xg7qTe": {
-          "type": "payment_methods",
+        "social_media_XDzfHR": {
+          "type": "social_media",
           "settings": {
-            "heading": "Payments Methods",
-            "center_text": true,
-            "horizontal_alignment": "center",
-            "vertical_alignment": "center",
+            "subheading": "CONNECT WITH US",
+            "follow_on_shop": false,
+            "center_text": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
             "desktop_padding": 0
           }
         },
@@ -203,7 +204,7 @@
         "menu_iqeqM3",
         "social_media_c484Fm",
         "newsletter_74khwT",
-        "payment_methods_xg7qTe",
+        "social_media_XDzfHR",
         "block_image_8GiFgV",
         "buttons_4PTBgx"
       ],
