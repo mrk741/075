@@ -921,6 +921,66 @@
         "top_spacing": 1,
         "bottom_spacing": 1
       }
+    },
+    "featured_collections_dDAWFK": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_NaVPPL": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_kAdVAD": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_f66JpC": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_NaVPPL",
+        "collection_kAdVAD",
+        "collection_f66JpC"
+      ],
+      "name": "t:sections.featured-collections.name",
+      "settings": {
+        "heading": "Featured colllections",
+        "heading_style": "section-heading",
+        "heading_tag": "h2",
+        "center_text": false,
+        "grid_type": "slider",
+        "desktop_columns": "3",
+        "mobile_columns": "2",
+        "on_mobile_show": 0,
+        "show_more_button_label": "Show more",
+        "show_more_button_icon": "",
+        "swap_show_more_button_icon": false,
+        "show_more_button_style": "outlined",
+        "desktop_item_width": 3,
+        "alignment_fewer_items": "left",
+        "mobile_item_min_width": 250,
+        "show_arrows": true,
+        "show_scrollbar": true,
+        "show_collection_card_border": false,
+        "overlay_opacity": 50,
+        "full_width": false,
+        "grid_style": "page",
+        "disable_max_width": false,
+        "disable_grid_gaps": false,
+        "show_bottom_line": false,
+        "color_scheme": "",
+        "collection_card_color_scheme": "",
+        "section_framing": "disable",
+        "top_spacing": 1,
+        "bottom_spacing": 1
+      }
     }
   },
   "order": [
@@ -930,6 +990,7 @@
     "collection_tabs_BnP9j7",
     "featured_collection_with_media_iErEJL",
     "testimonials_Cr9FRe",
-    "collapsible_tabs_ekEtGz"
+    "collapsible_tabs_ekEtGz",
+    "featured_collections_dDAWFK"
   ]
 }
