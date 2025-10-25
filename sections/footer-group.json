@@ -147,7 +147,7 @@
         "payment_methods_xg7qTe": {
           "type": "payment_methods",
           "settings": {
-            "heading": "",
+            "heading": "Payments Methods",
             "center_text": true,
             "horizontal_alignment": "center",
             "vertical_alignment": "center",
