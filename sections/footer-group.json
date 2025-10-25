@@ -115,17 +115,6 @@
             "desktop_padding": 0
           }
         },
-        "social_media_c484Fm": {
-          "type": "social_media",
-          "settings": {
-            "subheading": "Follow us",
-            "follow_on_shop": false,
-            "center_text": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-start",
-            "desktop_padding": 0
-          }
-        },
         "newsletter_74khwT": {
           "type": "newsletter",
           "settings": {
@@ -175,7 +164,6 @@
         "block_image_9hUqFJ",
         "text_bC4XNU",
         "menu_iqeqM3",
-        "social_media_c484Fm",
         "newsletter_74khwT",
         "social_media_XDzfHR",
         "block_image_8GiFgV"
