@@ -800,10 +800,11 @@
         "testimonial_di6F8n",
         "testimonial_hnixEa"
       ],
+      "disabled": true,
       "name": "t:sections.testimonials.name",
       "settings": {
         "show_rating": true,
-        "heading": "What our clients say",
+        "heading": "What our Customers Say",
         "heading_style": "page-title",
         "heading_tag": "h2",
         "button_label": "",
