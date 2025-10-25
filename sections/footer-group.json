@@ -75,27 +75,19 @@
         },
         "empty_space_zrnANV": {
           "type": "empty_space",
-          "disabled": true,
           "settings": {
             "desktop_height": 0
           }
         },
         "empty_space_j6EWMY": {
           "type": "empty_space",
-          "disabled": true,
-          "settings": {
-            "desktop_height": 0
-          }
-        },
-        "empty_space_ji8Faj": {
-          "type": "empty_space",
-          "disabled": true,
           "settings": {
             "desktop_height": 0
           }
         },
         "social_media_XDzfHR": {
           "type": "social_media",
+          "disabled": true,
           "settings": {
             "subheading": "Follow Us",
             "follow_on_shop": false,
@@ -146,7 +138,6 @@
         "text_bC4XNU",
         "empty_space_zrnANV",
         "empty_space_j6EWMY",
-        "empty_space_ji8Faj",
         "social_media_XDzfHR",
         "newsletter_74khwT",
         "block_image_8GiFgV"
