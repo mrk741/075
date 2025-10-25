@@ -34,10 +34,10 @@
           "settings": {
             "heading": "Women's",
             "menu": "womens-winter-collections",
-            "menu_orientation": "row",
+            "menu_orientation": "column",
             "link_style": "body-font",
             "uppercase": false,
-            "bolder_font": false,
+            "bolder_font": true,
             "desktop_width": 100,
             "center_text": false,
             "horizontal_alignment": "flex-start",
