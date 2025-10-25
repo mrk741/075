@@ -91,6 +91,7 @@
         },
         "loop_video_HHhAB8": {
           "type": "loop_video",
+          "disabled": true,
           "settings": {
             "link": "",
             "target_blank": false,
@@ -223,6 +224,7 @@
         "collection_kAdVAD",
         "collection_f66JpC"
       ],
+      "disabled": true,
       "name": "t:sections.featured-collections.name",
       "settings": {
         "heading": "",
@@ -472,7 +474,7 @@
         "subheading": "Fresh Arrivals",
         "subheading_style": "section-heading",
         "subheading_tag": "h2",
-        "heading": "Buy before it's buyed by Someone",
+        "heading": "The last piece of its kind. Will you be the one to own it?",
         "heading_style": "body-font",
         "heading_tag": "span",
         "tabs_style": "secondary-heading",
