@@ -14,18 +14,17 @@
     "footer": {
       "type": "Footer",
       "blocks": {
-        "block_image_9hUqFJ": {
-          "type": "block_image",
+        "context_image_6DPyRY": {
+          "type": "context_image",
           "settings": {
-            "heading": "",
-            "desktop_image": "shopify://shop_images/OTS-square-logo_d1916e23-29a9-4fec-b3b0-facafcb3ad44.png",
-            "desktop_media_ratio": "auto",
-            "block_image_radius": "default",
-            "mobile_media_ratio": "auto",
-            "block_image_link": "",
-            "target_blank": false,
-            "center_text": false,
-            "vertical_alignment": "flex-start",
+            "context_image": "shopify://shop_images/Online_Thrift_Store_-_Logo_White.png",
+            "context_image_width": 448,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false,
+            "horizontal_alignment": "center",
+            "vertical_alignment": "center",
             "desktop_padding": 0
           }
         },
@@ -74,6 +73,12 @@
             "desktop_padding": 0
           }
         },
+        "empty_space_zrnANV": {
+          "type": "empty_space",
+          "settings": {
+            "desktop_height": 1
+          }
+        },
         "newsletter_74khwT": {
           "type": "newsletter",
           "settings": {
@@ -95,9 +100,9 @@
         "social_media_XDzfHR": {
           "type": "social_media",
           "settings": {
-            "subheading": "CONNECT WITH US",
+            "subheading": "Follow Us",
             "follow_on_shop": false,
-            "center_text": true,
+            "center_text": false,
             "horizontal_alignment": "center",
             "vertical_alignment": "center",
             "desktop_padding": 0
@@ -113,17 +118,18 @@
             "mobile_media_ratio": "auto",
             "block_image_link": "",
             "target_blank": false,
-            "center_text": true,
-            "vertical_alignment": "center",
+            "center_text": false,
+            "vertical_alignment": "flex-start",
             "desktop_padding": 0
           }
         }
       },
       "block_order": [
-        "block_image_9hUqFJ",
+        "context_image_6DPyRY",
         "menu_iqeqM3",
         "menu_aXR7md",
         "text_bC4XNU",
+        "empty_space_zrnANV",
         "newsletter_74khwT",
         "social_media_XDzfHR",
         "block_image_8GiFgV"
