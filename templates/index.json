@@ -470,7 +470,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "custom_heading": "First collection",
+            "custom_heading": "Women's",
             "info_card_style": "hide",
             "info_card_position": "first",
             "info_card_center_text": true,
@@ -493,7 +493,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "custom_heading": "Second collection",
+            "custom_heading": "Kid's",
             "info_card_style": "hide",
             "info_card_position": "first",
             "info_card_center_text": true,
@@ -512,11 +512,11 @@
             "info_card_color_scheme": ""
           }
         },
-        "collection_LhHFTi": {
+        "collection_mTXhVj": {
           "type": "collection",
           "settings": {
             "collection": "",
-            "custom_heading": "Third collection",
+            "custom_heading": "Men's",
             "info_card_style": "hide",
             "info_card_position": "first",
             "info_card_center_text": true,
@@ -532,14 +532,14 @@
             "info_card_text_style": "body-font",
             "info_card_button_style": "link",
             "info_card_button_radius": "default",
-            "info_card_color_scheme": ""
+            "info_card_color_scheme": "background-5"
           }
         }
       },
       "block_order": [
         "collection_pBBWnk",
         "collection_MVQKaP",
-        "collection_LhHFTi"
+        "collection_mTXhVj"
       ],
       "name": "t:sections.collection-tabs.name",
       "settings": {
@@ -800,10 +800,11 @@
         "testimonial_di6F8n",
         "testimonial_hnixEa"
       ],
+      "disabled": true,
       "name": "t:sections.testimonials.name",
       "settings": {
         "show_rating": true,
-        "heading": "What our clients say",
+        "heading": "What our Customers Say",
         "heading_style": "page-title",
         "heading_tag": "h2",
         "button_label": "",
