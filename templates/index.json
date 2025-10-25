@@ -252,78 +252,8 @@
         "color_scheme": "",
         "collection_card_color_scheme": "",
         "section_framing": "disable",
-        "top_spacing": 1,
-        "bottom_spacing": 1
-      }
-    },
-    "scrolling_promotion_JXYiHF": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "text_peqm9F": {
-          "type": "text",
-          "settings": {
-            "desktop_text": "First promotion",
-            "mobile_text": "",
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "icon_Tj7tTN": {
-          "type": "icon",
-          "settings": {
-            "icon": "glyphs/signs/full-image",
-            "icon_size": 48,
-            "color": "#000000",
-            "mobile_color": "#000000",
-            "mobile_icon_size": 48,
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "text_LKWhqr": {
-          "type": "text",
-          "settings": {
-            "desktop_text": "Second promotion",
-            "mobile_text": "",
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "button_a3enmC": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover",
-            "button_icon": "",
-            "swap_button_icon": false,
-            "button_link": "",
-            "target_blank": false,
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "text_peqm9F",
-        "icon_Tj7tTN",
-        "text_LKWhqr",
-        "button_a3enmC"
-      ],
-      "name": "t:sections.scrolling-promotion.name",
-      "settings": {
-        "font_style": "section-heading",
-        "line_show": "disable",
-        "line_padding": 24,
-        "gap_items": 48,
-        "mobile_gap_items": 48,
-        "scroll_direction": "left",
-        "speed": 1.6,
-        "use_main_button": false,
-        "full_width": false,
-        "grid_style": "page",
-        "disable_max_width": false,
-        "color_scheme": "",
-        "section_framing": "disable",
-        "top_spacing": 1,
-        "bottom_spacing": 1
+        "top_spacing": 0,
+        "bottom_spacing": 0
       }
     },
     "scrolling_promotion_mMgrek": {
@@ -455,8 +385,8 @@
         "disable_max_width": false,
         "color_scheme": "",
         "section_framing": "disable",
-        "top_spacing": 0.5,
-        "bottom_spacing": 0.5
+        "top_spacing": 0,
+        "bottom_spacing": 0
       }
     },
     "collection_tabs_BnP9j7": {
@@ -922,7 +852,6 @@
   "order": [
     "slideshow_Q6zVdp",
     "featured_collections_dDAWFK",
-    "scrolling_promotion_JXYiHF",
     "scrolling_promotion_mMgrek",
     "collection_tabs_BnP9j7",
     "featured_collection_with_media_iErEJL",
