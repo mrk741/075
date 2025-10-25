@@ -154,6 +154,21 @@
             "desktop_padding": 0
           }
         },
+        "block_image_8GiFgV": {
+          "type": "block_image",
+          "settings": {
+            "heading": "PAYMENT METHODS",
+            "desktop_image": "shopify://shop_images/online-payment.avif",
+            "desktop_media_ratio": "auto",
+            "block_image_radius": "default",
+            "mobile_media_ratio": "auto",
+            "block_image_link": "",
+            "target_blank": false,
+            "center_text": false,
+            "vertical_alignment": "flex-start",
+            "desktop_padding": 0
+          }
+        },
         "buttons_4PTBgx": {
           "type": "buttons",
           "settings": {
@@ -189,6 +204,7 @@
         "social_media_c484Fm",
         "newsletter_74khwT",
         "payment_methods_xg7qTe",
+        "block_image_8GiFgV",
         "buttons_4PTBgx"
       ],
       "settings": {
