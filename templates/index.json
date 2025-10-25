@@ -202,19 +202,19 @@
         "collection_NaVPPL": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "men-winter-collection"
           }
         },
         "collection_kAdVAD": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "kids-winter-collection"
           }
         },
         "collection_f66JpC": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "women-winter-collection"
           }
         }
       },
