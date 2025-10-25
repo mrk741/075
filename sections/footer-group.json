@@ -45,6 +45,22 @@
             "desktop_padding": 0
           }
         },
+        "menu_aXR7md": {
+          "type": "menu",
+          "settings": {
+            "heading": "Men's",
+            "menu": "mens-winter-collections",
+            "menu_orientation": "row",
+            "link_style": "body-font",
+            "uppercase": false,
+            "bolder_font": false,
+            "desktop_width": 100,
+            "center_text": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "desktop_padding": 0
+          }
+        },
         "text_bC4XNU": {
           "type": "text",
           "settings": {
@@ -106,6 +122,7 @@
       "block_order": [
         "block_image_9hUqFJ",
         "menu_iqeqM3",
+        "menu_aXR7md",
         "text_bC4XNU",
         "newsletter_74khwT",
         "social_media_XDzfHR",
