@@ -32,8 +32,8 @@
         "menu_iqeqM3": {
           "type": "menu",
           "settings": {
-            "heading": "",
-            "menu": "main-menu",
+            "heading": "Women's",
+            "menu": "womens-winter-collections",
             "menu_orientation": "row",
             "link_style": "body-font",
             "uppercase": false,
