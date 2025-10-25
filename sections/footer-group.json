@@ -18,7 +18,7 @@
           "type": "context_image",
           "settings": {
             "context_image": "shopify://shop_images/Online_Thrift_Store_-_Logo_White.png",
-            "context_image_width": 448,
+            "context_image_width": 304,
             "context_media_ratio": "auto",
             "context_image_radius": "default",
             "context_image_link": "",
@@ -75,6 +75,21 @@
         },
         "empty_space_zrnANV": {
           "type": "empty_space",
+          "disabled": true,
+          "settings": {
+            "desktop_height": 0
+          }
+        },
+        "empty_space_j6EWMY": {
+          "type": "empty_space",
+          "disabled": true,
+          "settings": {
+            "desktop_height": 0
+          }
+        },
+        "empty_space_ji8Faj": {
+          "type": "empty_space",
+          "disabled": true,
           "settings": {
             "desktop_height": 0
           }
@@ -108,18 +123,6 @@
             "desktop_padding": 0
           }
         },
-        "empty_space_j6EWMY": {
-          "type": "empty_space",
-          "settings": {
-            "desktop_height": 0
-          }
-        },
-        "empty_space_ji8Faj": {
-          "type": "empty_space",
-          "settings": {
-            "desktop_height": 0
-          }
-        },
         "block_image_8GiFgV": {
           "type": "block_image",
           "settings": {
@@ -142,10 +145,10 @@
         "menu_aXR7md",
         "text_bC4XNU",
         "empty_space_zrnANV",
-        "social_media_XDzfHR",
-        "newsletter_74khwT",
         "empty_space_j6EWMY",
         "empty_space_ji8Faj",
+        "social_media_XDzfHR",
+        "newsletter_74khwT",
         "block_image_8GiFgV"
       ],
       "settings": {
@@ -157,7 +160,7 @@
         "show_top_line": false,
         "show_bottom_line": true,
         "color_scheme": "background-2",
-        "top_spacing": 0,
+        "top_spacing": 0.5,
         "bottom_spacing": 0
       }
     },
@@ -172,8 +175,8 @@
         "disable_max_width": false,
         "show_bottom_line": false,
         "color_scheme": "background-2",
-        "top_spacing": 0.4,
-        "bottom_spacing": 0.4
+        "top_spacing": 0.2,
+        "bottom_spacing": 0.2
       }
     }
   },
