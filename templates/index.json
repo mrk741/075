@@ -225,7 +225,7 @@
       ],
       "name": "t:sections.featured-collections.name",
       "settings": {
-        "heading": "Featured colllections",
+        "heading": "",
         "heading_style": "section-heading",
         "heading_tag": "h2",
         "center_text": false,
@@ -233,7 +233,7 @@
         "desktop_columns": "3",
         "mobile_columns": "2",
         "on_mobile_show": 0,
-        "show_more_button_label": "Show more",
+        "show_more_button_label": "",
         "show_more_button_icon": "",
         "swap_show_more_button_icon": false,
         "show_more_button_style": "outlined",
@@ -252,7 +252,7 @@
         "color_scheme": "",
         "collection_card_color_scheme": "",
         "section_framing": "disable",
-        "top_spacing": 0,
+        "top_spacing": 0.5,
         "bottom_spacing": 0
       }
     },
