@@ -33,7 +33,7 @@
           "type": "menu",
           "settings": {
             "heading": "Women's",
-            "menu": "womens-winter-collections",
+            "menu": "main-menu",
             "menu_orientation": "column",
             "link_style": "body-font",
             "uppercase": false,
