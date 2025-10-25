@@ -11,63 +11,6 @@
   "type": "footer",
   "name": "Footer",
   "sections": {
-    "social_grid_WqREmt": {
-      "type": "social-grid",
-      "disabled": true,
-      "custom_css": [
-        "@media (max-width: 768px) {.show-more-button {display: none; }}"
-      ],
-      "settings": {
-        "overlap": "disable",
-        "desktop_height_type": "pixels",
-        "desktop_pixels_height": 600,
-        "overlay_opacity": 50,
-        "mobile_overlay_opacity": 50,
-        "heading": "",
-        "heading_style": "page-title",
-        "center_text": true,
-        "vertical_content_position": "center",
-        "media_ratio": "4/5",
-        "button_label": "Follow us",
-        "button_icon": "",
-        "swap_button_icon": false,
-        "button_link": "",
-        "button_target_blank": false,
-        "button_style": "solid",
-        "grid_type": "grid",
-        "desktop_columns": "4",
-        "mobile_columns": "2",
-        "on_mobile_show": 4,
-        "show_more_button_label": "Show more",
-        "show_more_button_icon": "",
-        "swap_show_more_button_icon": false,
-        "show_more_button_style": "outlined",
-        "desktop_item_width": 4,
-        "mobile_item_min_width": 250,
-        "show_arrows": true,
-        "show_scrollbar": true,
-        "mobile_height_type": "pixels",
-        "mobile_pixels_height": 200,
-        "content_under_image": false,
-        "only_first_image": false,
-        "grid_style": "secondary",
-        "disable_max_width": false,
-        "disable_grid_gaps": true,
-        "show_bottom_line": false,
-        "color_scheme": "background-1",
-        "banner_color_scheme": "background-9",
-        "overlapped_header_color_scheme": "",
-        "logo_style": "overlapped",
-        "mobile_color_scheme": "scheme-5c4f50c3-637f-49d8-94f0-a258e73d6f93",
-        "mobile_banner_color_scheme": "background-9",
-        "mobile_overlapped_header_color_scheme": "",
-        "mobile_logo_style": "overlapped",
-        "enable_sticky_content": false,
-        "sticky_offset": 120,
-        "top_spacing": 0,
-        "bottom_spacing": 0
-      }
-    },
     "footer": {
       "type": "Footer",
       "blocks": {
@@ -76,25 +19,12 @@
           "settings": {
             "heading": "",
             "desktop_image": "shopify://shop_images/OTS-square-logo_d1916e23-29a9-4fec-b3b0-facafcb3ad44.png",
-            "desktop_media_ratio": "1/1",
+            "desktop_media_ratio": "auto",
             "block_image_radius": "default",
             "mobile_media_ratio": "auto",
             "block_image_link": "",
             "target_blank": false,
-            "center_text": true,
-            "vertical_alignment": "center",
-            "desktop_padding": 0
-          }
-        },
-        "text_bC4XNU": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "text": "<p>This is where you can share your brand story and vision with your customers. You can change the text in the theme editor.</p>",
-            "text_style": "body-font",
-            "desktop_width": 100,
             "center_text": false,
-            "horizontal_alignment": "flex-start",
             "vertical_alignment": "flex-start",
             "desktop_padding": 0
           }
@@ -108,6 +38,19 @@
             "link_style": "body-font",
             "uppercase": false,
             "bolder_font": false,
+            "desktop_width": 100,
+            "center_text": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "desktop_padding": 0
+          }
+        },
+        "text_bC4XNU": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "text": "<p>This is where you can share your brand story and vision with your customers. You can change the text in the theme editor.</p>",
+            "text_style": "body-font",
             "desktop_width": 100,
             "center_text": false,
             "horizontal_alignment": "flex-start",
@@ -162,16 +105,16 @@
       },
       "block_order": [
         "block_image_9hUqFJ",
-        "text_bC4XNU",
         "menu_iqeqM3",
+        "text_bC4XNU",
         "newsletter_74khwT",
         "social_media_XDzfHR",
         "block_image_8GiFgV"
       ],
       "settings": {
-        "grid_columns": "4",
+        "grid_columns": "3",
         "two_columns_mobile": true,
-        "grid_style": "alternative",
+        "grid_style": "page",
         "disable_max_width": true,
         "block_headings_style": "subheading-font",
         "show_top_line": false,
@@ -191,14 +134,13 @@
         "grid_style": "page",
         "disable_max_width": false,
         "show_bottom_line": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "top_spacing": 0.4,
         "bottom_spacing": 0.4
       }
     }
   },
   "order": [
-    "social_grid_WqREmt",
     "footer",
     "legal"
   ]
