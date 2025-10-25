@@ -91,8 +91,22 @@
             "desktop_padding": 0
           }
         },
+        "text_E3x8Tb": {
+          "type": "text",
+          "settings": {
+            "heading": "Help Line",
+            "text": "<p>WhatsApp or Call: +92 313 744 0444<br/>Email: help@onlinethriftstore.pk</p>",
+            "text_style": "body-font",
+            "desktop_width": 100,
+            "center_text": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "desktop_padding": 0
+          }
+        },
         "empty_space_j6EWMY": {
           "type": "empty_space",
+          "disabled": true,
           "settings": {
             "desktop_height": 0
           }
@@ -155,6 +169,7 @@
         "menu_63Tyt8",
         "newsletter_74khwT",
         "text_bC4XNU",
+        "text_E3x8Tb",
         "empty_space_j6EWMY",
         "empty_space_egfMbR",
         "social_media_XDzfHR",
