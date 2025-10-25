@@ -543,7 +543,7 @@
       ],
       "name": "t:sections.collection-tabs.name",
       "settings": {
-        "subheading": "",
+        "subheading": "Fresh Arrivals",
         "subheading_style": "secondary-heading",
         "subheading_tag": "h3",
         "heading": "",
