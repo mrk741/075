@@ -76,13 +76,24 @@
         "empty_space_zrnANV": {
           "type": "empty_space",
           "settings": {
-            "desktop_height": 1
+            "desktop_height": 0
+          }
+        },
+        "social_media_XDzfHR": {
+          "type": "social_media",
+          "settings": {
+            "subheading": "Follow Us",
+            "follow_on_shop": false,
+            "center_text": false,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-start",
+            "desktop_padding": 0
           }
         },
         "newsletter_74khwT": {
           "type": "newsletter",
           "settings": {
-            "label": "Newsletter",
+            "label": "Join Our Newsletter to get Update",
             "text": "",
             "text_style": "body-font",
             "placeholder": "Enter your email address",
@@ -106,18 +117,7 @@
         "empty_space_ji8Faj": {
           "type": "empty_space",
           "settings": {
-            "desktop_height": 1
-          }
-        },
-        "social_media_XDzfHR": {
-          "type": "social_media",
-          "settings": {
-            "subheading": "Follow Us",
-            "follow_on_shop": false,
-            "center_text": false,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "flex-start",
-            "desktop_padding": 0
+            "desktop_height": 0
           }
         },
         "block_image_8GiFgV": {
@@ -142,10 +142,10 @@
         "menu_aXR7md",
         "text_bC4XNU",
         "empty_space_zrnANV",
+        "social_media_XDzfHR",
         "newsletter_74khwT",
         "empty_space_j6EWMY",
         "empty_space_ji8Faj",
-        "social_media_XDzfHR",
         "block_image_8GiFgV"
       ],
       "settings": {
