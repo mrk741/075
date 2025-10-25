@@ -47,8 +47,8 @@
         "menu_63Tyt8": {
           "type": "menu",
           "settings": {
-            "heading": "MEN's",
-            "menu": "mens-winter-collections",
+            "heading": "",
+            "menu": "mens-kids",
             "menu_orientation": "column",
             "link_style": "body-font",
             "uppercase": false,
