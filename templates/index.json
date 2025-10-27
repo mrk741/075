@@ -178,7 +178,7 @@
         "overlap": "disable",
         "desktop_height_type": "pixels",
         "desktop_pixels_height": 800,
-        "mobile_height_type": "pixels",
+        "mobile_height_type": "adapt",
         "mobile_pixels_height": 500,
         "enable_autoplay": true,
         "autoplay_speed": 7,
