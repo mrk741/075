@@ -155,6 +155,30 @@
             "mobile_top_spacing": 1
           }
         },
+        "tabs_HMziG6": {
+          "type": "tabs",
+          "settings": {
+            "text_uppercase": false,
+            "text_bolder_font": false,
+            "text_style": "body-font",
+            "page_style": "body-font",
+            "custom_heading_1": "Description",
+            "custom_heading_2": "Second tab",
+            "text_2": "<p>Add an optional description to a promotion, product, or collection.</p>",
+            "page_2": "",
+            "custom_heading_3": "",
+            "text_3": "",
+            "page_3": "",
+            "custom_heading_4": "",
+            "text_4": "",
+            "page_4": "",
+            "custom_heading_5": "",
+            "text_5": "",
+            "page_5": "",
+            "top_spacing": 1,
+            "mobile_top_spacing": 1
+          }
+        },
         "payment_methods": {
           "type": "payment_methods",
           "settings": {
@@ -183,30 +207,6 @@
             "text_style": "body-font",
             "color_scheme": "background-1",
             "top_spacing": 3,
-            "mobile_top_spacing": 1
-          }
-        },
-        "tabs_HMziG6": {
-          "type": "tabs",
-          "settings": {
-            "text_uppercase": false,
-            "text_bolder_font": false,
-            "text_style": "body-font",
-            "page_style": "body-font",
-            "custom_heading_1": "Description",
-            "custom_heading_2": "Second tab",
-            "text_2": "<p>Add an optional description to a promotion, product, or collection.</p>",
-            "page_2": "",
-            "custom_heading_3": "",
-            "text_3": "",
-            "page_3": "",
-            "custom_heading_4": "",
-            "text_4": "",
-            "page_4": "",
-            "custom_heading_5": "",
-            "text_5": "",
-            "page_5": "",
-            "top_spacing": 1,
             "mobile_top_spacing": 1
           }
         },
@@ -396,10 +396,10 @@
         "variant_picker",
         "inventory_status_btP6qR",
         "af462a58-0554-4b4c-aaaf-172590d8ff2f",
+        "tabs_HMziG6",
         "payment_methods",
         "second_container_FE4QCE",
         "text_9CJAmC",
-        "tabs_HMziG6",
         "sku_Hg7Fw4",
         "ask_question_NxtQXa",
         "icons_with_text_caHVxC",
