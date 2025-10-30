@@ -275,7 +275,6 @@
         "context_image_tWdC7A": {
           "type": "context_image",
           "settings": {
-            "context_image": "shopify://shop_images/shein.avif",
             "context_image_width": 120,
             "context_media_ratio": "auto",
             "context_image_radius": "default",
@@ -286,7 +285,6 @@
         "context_image_Dfqyj8": {
           "type": "context_image",
           "settings": {
-            "context_image": "shopify://shop_images/next.avif",
             "context_image_width": 120,
             "context_media_ratio": "auto",
             "context_image_radius": "default",
@@ -575,7 +573,7 @@
       ],
       "name": "t:sections.featured-collection-with-media.name",
       "settings": {
-        "collection": "",
+        "collection": "women-winter-collection",
         "media": "show",
         "focal_point": "center center",
         "enable_mute": false,
