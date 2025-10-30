@@ -14,22 +14,11 @@
     "announcement_bar_zGzxYa": {
       "type": "announcement-bar",
       "blocks": {
-        "text_RBrUqx": {
-          "type": "text",
-          "settings": {
-            "desktop_text": "<p>Announce something</p>",
-            "mobile_text": "<p>Announce</p>",
-            "icon": "glyphs/signs/worldwide-delivery",
-            "color": "#000000",
-            "mobile_color": "#000000",
-            "color_scheme": "background-2"
-          }
-        },
         "text_BpgdJE": {
           "type": "text",
           "settings": {
-            "desktop_text": "<p>Announce something</p>",
-            "mobile_text": "<p>Announce</p>",
+            "desktop_text": "<p><br/>🎁 <strong>OTS10 </strong>= 10% extra off. Don’t miss out!</p>",
+            "mobile_text": "<p>Use <strong>OTS10 </strong>to get extra off.</p>",
             "icon": "glyphs/signs/last-24-hours",
             "color": "#ffffff",
             "mobile_color": "#ffffff",
@@ -38,7 +27,6 @@
         }
       },
       "block_order": [
-        "text_RBrUqx",
         "text_BpgdJE"
       ],
       "settings": {
