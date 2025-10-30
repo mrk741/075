@@ -87,7 +87,7 @@
         "header_layout": "logo_center_menu_left",
         "sticky_header": "on_scroll",
         "menu": "main-menu",
-        "parent_menu": false,
+        "parent_menu": true,
         "dropdown_icon": "disable",
         "dropdown_event_type": "click",
         "link_style": "caption-font",
