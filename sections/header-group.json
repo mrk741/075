@@ -17,9 +17,9 @@
         "text_BpgdJE": {
           "type": "text",
           "settings": {
-            "desktop_text": "<p><br/>🎁 <strong>OTS10 </strong>= 10% extra off. Don’t miss out!</p>",
+            "desktop_text": "<p>🎁 <strong>OTS10 </strong>= 10% extra off. Don’t miss out!</p>",
             "mobile_text": "<p>Use <strong>OTS10 </strong>to get extra off.</p>",
-            "icon": "glyphs/signs/last-24-hours",
+            "icon": "",
             "color": "#ffffff",
             "mobile_color": "#ffffff",
             "color_scheme": "background-2"
