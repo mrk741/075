@@ -83,8 +83,8 @@
         "logo_UXh8R3"
       ],
       "custom_css": [
-        ".header {box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);}",
-        "/* Optional: Add a slightly stronger shadow when scrolled/sticky */.header--on_scroll-stick {box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15); transition: box-shadow 0.3s ease;}"
+        ".header {box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);}",
+        ".header--on_scroll-stick {box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12); transition: box-shadow 0.3s ease;}"
       ],
       "settings": {
         "header_layout": "logo_center_menu_left",
