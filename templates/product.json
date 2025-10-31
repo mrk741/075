@@ -598,12 +598,28 @@
         "top_spacing": 1,
         "bottom_spacing": 1
       }
+    },
+    "custom_liquid_RTbVMa": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.name",
+      "settings": {
+        "custom_liquid": "{% render 'ask-ai-ots' %}",
+        "text_style": "body-font",
+        "grid_style": "page",
+        "disable_max_width": false,
+        "show_bottom_line": false,
+        "color_scheme": "",
+        "section_framing": "disable",
+        "top_spacing": 1,
+        "bottom_spacing": 1
+      }
     }
   },
   "order": [
     "main-product",
     "product_recommendations_DxMgjn",
     "recently_viewed_products_V8yePi",
-    "175931670998acd34d"
+    "175931670998acd34d",
+    "custom_liquid_RTbVMa"
   ]
 }
