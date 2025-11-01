@@ -34,7 +34,7 @@
         "dropdown_style": "small",
         "dropdown_width": "fixed",
         "filter_and_operator_subtitle": "Match all",
-        "open_collapsible_label": "Availability, Brands, Price",
+        "open_collapsible_label": "Availability, Brands, Price,Condition",
         "hover_behavior": "second_image",
         "show_bullets": true,
         "autoplay_speed": 2,
