@@ -232,73 +232,10 @@
         "overlay_opacity": 15,
         "banner_color_scheme": "background-2"
       }
-    },
-    "popup_n7Kn8F": {
-      "type": "popup",
-      "blocks": {
-        "heading_QqdxLz": {
-          "type": "heading",
-          "settings": {
-            "heading": "Popup heading",
-            "heading_style": "section-heading"
-          }
-        },
-        "text_W7VpB9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Add an optional description to a promotion, product, or collection.</p>",
-            "richtext_heading_style": "section-heading",
-            "text_style": "body-font"
-          }
-        },
-        "button_GGdeTN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover",
-            "button_icon": "",
-            "swap_button_icon": false,
-            "button_link": "",
-            "target_blank": false,
-            "button_style": "solid",
-            "use_main_button": false
-          }
-        },
-        "close_button_YFaz8X": {
-          "type": "close_button",
-          "settings": {
-            "button_label": "Close",
-            "button_icon": "",
-            "swap_button_icon": false,
-            "button_style": "solid",
-            "use_main_button": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_QqdxLz",
-        "text_W7VpB9",
-        "button_GGdeTN",
-        "close_button_YFaz8X"
-      ],
-      "name": "t:sections.popup.name",
-      "settings": {
-        "delay": "0",
-        "frequency": "0",
-        "only_homepage": true,
-        "disable_for_registered_users": true,
-        "center_text": true,
-        "show_image_on_mobile": false,
-        "image": "shopify://shop_images/a-website-header-banner-for-an-online-th_bqKB5xgVRdW81mKTuOiuvw_ILX1CulpSnuiaGxuWZGcwg.jpg",
-        "media_ratio": "16/9",
-        "image_link": "",
-        "target_blank": false,
-        "color_scheme": ""
-      }
     }
   },
   "order": [
     "cart_drawer_bxxHND",
-    "menu-drawer",
-    "popup_n7Kn8F"
+    "menu-drawer"
   ]
 }
