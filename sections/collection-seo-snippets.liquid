@@ -1,0 +1,22 @@
+{%- if collection.products_count > 0 -%}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"CollectionPage",
+  "name":"Women’s Winter Knitted Tops",
+  "description":"Shop ribbed, chunky and turtleneck women’s winter knitted tops in Pakistan.",
+  "mainEntity":{
+    "@type":"ItemList",
+    "itemListElement":[
+      {%- for p in collection.products limit: 12 -%}
+      {
+        "@type":"ListItem",
+        "position": {{ forloop.index }},
+        "url": "{{ shop.url }}{{ p.url }}"
+      }{%- if forloop.last == false -%},{%- endif -%}
+      {%- endfor -%}
+    ]
+  }
+}
+</script>
+{%- endif -%}
