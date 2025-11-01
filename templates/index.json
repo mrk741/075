@@ -527,6 +527,7 @@
       "blocks": {
         "icon_dfxKxw": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon": "",
             "icon_size": 36,
@@ -540,13 +541,14 @@
         "heading_3nmVpm": {
           "type": "heading",
           "settings": {
-            "heading": "Media heading",
+            "heading": "CROP TOPS",
             "heading_style": "page-title",
             "heading_tag": "h2"
           }
         },
         "text_7NydQB": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Pair text with image or loop video to focus on your featured product, collection, or promotion. Tell a story, describe your brand or share announcements.</p>",
             "text_style": "body-font"
@@ -573,7 +575,7 @@
       ],
       "name": "t:sections.featured-collection-with-media.name",
       "settings": {
-        "collection": "women-winter-collection",
+        "collection": "winter-crop-tops",
         "media": "hide",
         "focal_point": "center center",
         "enable_mute": false,
@@ -582,7 +584,7 @@
         "swap_media_position": true,
         "media_size": "small",
         "media_ratio": "3/2",
-        "mobile_media_ratio": "1/1",
+        "mobile_media_ratio": "4/5",
         "content_width": "regular",
         "vertical_text_alignment": "center",
         "horizontal_text_alignment": "center",
