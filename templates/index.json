@@ -574,7 +574,7 @@
       "name": "t:sections.featured-collection-with-media.name",
       "settings": {
         "collection": "women-winter-collection",
-        "media": "show",
+        "media": "hide",
         "focal_point": "center center",
         "enable_mute": false,
         "enable_pause": false,
