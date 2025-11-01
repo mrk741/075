@@ -25,7 +25,7 @@
         "preview_grid_desktop_columns": 12,
         "preview_grid_mobile_columns": "4",
         "enable_filtering": true,
-        "filter_type": "horizontal",
+        "filter_type": "drawer",
         "drawer_position": "right",
         "drawer_button_label": "Filter Products",
         "mobile_drawer_button_label": "Filter",
