@@ -43,7 +43,7 @@
         "card_content_style": "regular",
         "quick_buy": "enable",
         "price_position": "bottom",
-        "options_position": "bottom",
+        "options_position": "top",
         "show_vendor": "text",
         "show_title": true,
         "max_product_name_characters": 100,
