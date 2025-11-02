@@ -51,7 +51,7 @@
         "show_short_description": true,
         "show_pickup_availability": false,
         "show_product_card_border": true,
-        "pagination": "click",
+        "pagination": "infinite",
         "pagination_button_label": "Load more",
         "pagination_button_icon": "glyphs/interface/reload",
         "swap_pagination_button_icon": false,
