@@ -425,7 +425,7 @@
         "container_inner_spacing": 1,
         "media_radius": "0px",
         "enable_video_autoplay": true,
-        "image_zoom": "lightbox",
+        "image_zoom": "slideshow",
         "desktop_width": 100,
         "mobile_width": 100,
         "zoom_media_ratio": "auto",
