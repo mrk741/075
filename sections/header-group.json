@@ -97,7 +97,7 @@
         "uppercase": true,
         "bolder_font": true,
         "highlight_menu_item": "End Of Season Sale",
-        "bottom_menu": "",
+        "bottom_menu": "main-menu",
         "bottom_dropdown_icon": "plus",
         "bottom_dropdown_event_type": "hover",
         "bottom_link_style": "body-font",
