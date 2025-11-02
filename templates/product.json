@@ -430,7 +430,7 @@
         "mobile_width": 100,
         "zoom_media_ratio": "auto",
         "zoom_focal_point": "center center",
-        "show_arrow_in_mobile": false,
+        "show_arrow_in_mobile": true,
         "enable_slideshow_zoom_in": true,
         "show_thumbnails": "below_gallery",
         "sticky_thumbnails": true,
