@@ -93,7 +93,7 @@
         "desktop_pixels_height": 600,
         "center_text": true,
         "vertical_content_position": "center",
-        "horizontal_content_position": "left",
+        "horizontal_content_position": "center",
         "content_width": "regular",
         "fill_content": false,
         "overlay_opacity": 50,
