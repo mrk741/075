@@ -116,7 +116,7 @@
         "mobile_gallery_overlay_opacity": 50,
         "gallery_image_radius": "default",
         "desktop_item_width": 4,
-        "alignment_fewer_items": "center",
+        "alignment_fewer_items": "left",
         "mobile_item_min_width": 250,
         "show_arrows": true,
         "show_scrollbar": false,
