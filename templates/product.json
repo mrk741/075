@@ -413,7 +413,7 @@
         "enable_sticky_content": true,
         "sticky_offset": 96,
         "media_position": "left",
-        "gallery_style": "alternative_1",
+        "gallery_style": "grid",
         "gallery_size": 6,
         "grid_gap": 0,
         "organize_images": true,
