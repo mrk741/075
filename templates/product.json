@@ -428,7 +428,7 @@
         "image_zoom": "slideshow",
         "desktop_width": 100,
         "mobile_width": 100,
-        "zoom_media_ratio": "auto",
+        "zoom_media_ratio": "4/5",
         "zoom_focal_point": "center center",
         "show_arrow_in_mobile": true,
         "enable_slideshow_zoom_in": true,
