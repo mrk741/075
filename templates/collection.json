@@ -78,9 +78,7 @@
     },
     "collection_banner_CPC7nD": {
       "type": "collection-banner",
-      "custom_css": [
-        ".center {text-align: left;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.collection-banner.name",
       "settings": {
         "show_collection_title": true,
