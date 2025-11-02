@@ -78,6 +78,7 @@
       "blocks": {
         "line_jTdYVn": {
           "type": "line",
+          "disabled": true,
           "settings": {
             "top_spacing": 0.5,
             "bottom_spacing": 0
@@ -97,22 +98,6 @@
             "highlight_menu_item": "",
             "show_bottom_line": false,
             "top_spacing": 1,
-            "mobile_top_spacing": 1
-          }
-        },
-        "localization_JaMdgt": {
-          "type": "localization",
-          "settings": {
-            "enable_language": true,
-            "short_language": false,
-            "enable_country": true,
-            "short_country": false,
-            "show_localization_outline": false,
-            "show_localization_chevron": true,
-            "show_localization_flag": true,
-            "localization_radius": "40px",
-            "show_bottom_line": false,
-            "top_spacing": 2,
             "mobile_top_spacing": 1
           }
         },
@@ -147,19 +132,6 @@
             "mobile_height": 1
           }
         },
-        "context_image_thzY9M": {
-          "type": "context_image",
-          "settings": {
-            "context_image_width": 96,
-            "context_media_ratio": "auto",
-            "context_image_radius": "default",
-            "context_image_link": "",
-            "context_target_blank": false,
-            "show_bottom_line": false,
-            "top_spacing": 1,
-            "mobile_top_spacing": 1
-          }
-        },
         "text_YiwTif": {
           "type": "text",
           "settings": {
@@ -184,26 +156,31 @@
             "mobile_top_spacing": 1
           }
         },
-        "empty_space_e74b7f": {
-          "type": "empty_space",
+        "context_image_FVUXYV": {
+          "type": "context_image",
           "settings": {
-            "desktop_height": 4,
-            "mobile_height": 4
+            "context_image": "shopify://shop_images/OTS-square-logo.png",
+            "context_image_width": 104,
+            "context_media_ratio": "auto",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_target_blank": false,
+            "show_bottom_line": true,
+            "top_spacing": 1,
+            "mobile_top_spacing": 1
           }
         }
       },
       "block_order": [
         "line_jTdYVn",
         "secondary_menu_7BzrTd",
-        "localization_JaMdgt",
         "empty_space_T3rxzx",
         "line_Vm6fck",
         "account_XprC9C",
         "empty_space_hqTqdL",
-        "context_image_thzY9M",
         "text_YiwTif",
         "social_media_R8xqWn",
-        "empty_space_e74b7f"
+        "context_image_FVUXYV"
       ],
       "custom_css": [],
       "settings": {
