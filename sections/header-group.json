@@ -18,7 +18,7 @@
           "type": "text",
           "settings": {
             "desktop_text": "<p>🎁 \"<strong>OTS10\" </strong>= 10% extra off. Don’t miss out!</p>",
-            "mobile_text": "<p>Use \"<strong>OTS10\" </strong>to get extra off.</p>",
+            "mobile_text": "<p>🎁 Use \"<strong>OTS10\" </strong>to get extra off. Don’t miss out!</p>",
             "icon": "",
             "color": "#ffffff",
             "mobile_color": "#ffffff",
