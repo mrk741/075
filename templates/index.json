@@ -525,19 +525,6 @@
     "featured_collection_with_media_iErEJL": {
       "type": "featured-collection-with-media",
       "blocks": {
-        "icon_dfxKxw": {
-          "type": "icon",
-          "disabled": true,
-          "settings": {
-            "icon": "",
-            "icon_size": 36,
-            "color": "#000000",
-            "mobile_color": "#000000",
-            "mobile_icon_size": 36,
-            "link": "",
-            "target_blank": false
-          }
-        },
         "heading_3nmVpm": {
           "type": "heading",
           "settings": {
@@ -546,16 +533,9 @@
             "heading_tag": "h2"
           }
         },
-        "text_7NydQB": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Pair text with image or loop video to focus on your featured product, collection, or promotion. Tell a story, describe your brand or share announcements.</p>",
-            "text_style": "body-font"
-          }
-        },
         "button_WqzVnr": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Discover",
             "button_icon": "glyphs/signs/up-right",
@@ -568,9 +548,7 @@
         }
       },
       "block_order": [
-        "icon_dfxKxw",
         "heading_3nmVpm",
-        "text_7NydQB",
         "button_WqzVnr"
       ],
       "name": "t:sections.featured-collection-with-media.name",
