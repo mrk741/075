@@ -78,6 +78,9 @@
     },
     "collection_banner_CPC7nD": {
       "type": "collection-banner",
+      "custom_css": [
+        ".center {text-align: left;}"
+      ],
       "name": "t:sections.collection-banner.name",
       "settings": {
         "show_collection_title": true,
@@ -92,7 +95,7 @@
         "desktop_pixels_height": 600,
         "center_text": true,
         "vertical_content_position": "center",
-        "horizontal_content_position": "center",
+        "horizontal_content_position": "left",
         "content_width": "regular",
         "fill_content": false,
         "overlay_opacity": 50,
@@ -107,7 +110,7 @@
         "use_main_button": true,
         "gallery_content_on_hover": false,
         "gallery_heading_style": "subheading-font",
-        "gallery_center_text": true,
+        "gallery_center_text": false,
         "gallery_vertical_content_position": "center",
         "gallery_media_ratio": "auto",
         "gallery_focal_point": "top center",
@@ -115,7 +118,7 @@
         "mobile_gallery_overlay_opacity": 50,
         "gallery_image_radius": "default",
         "desktop_item_width": 4,
-        "alignment_fewer_items": "center",
+        "alignment_fewer_items": "left",
         "mobile_item_min_width": 250,
         "show_arrows": true,
         "show_scrollbar": false,
