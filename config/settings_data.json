@@ -108,12 +108,14 @@
     "linked_products_image_ratio": "2/3",
     "linked_products_image_radius": "3px",
     "swatch_config": "",
-    "show_selected_variant_value": false,
+    "show_selected_variant_value": true,
     "product_card_pills": "both",
-    "show_media_attached_to_variant": false,
-    "product_media_ratio": "auto",
-    "fit_product_media": false,
+    "size_variant_label": "Size",
+    "show_media_attached_to_variant": true,
+    "product_media_ratio": "4/5",
+    "fit_product_media": true,
     "product_card_inner_spacing": 5,
+    "product_placeholder": "shopify://shop_images/OTS-square-logo.png",
     "center_product_card_content": false,
     "product_titles_style": "body-font",
     "product_titles_uppercase": false,
@@ -252,6 +254,18 @@
       }
     },
     "content_for_index": [],
+    "blocks": {
+      "2567389343055140935": {
+        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
+        "disabled": false,
+        "settings": {}
+      },
+      "2200952712151285029": {
+        "type": "shopify://apps/microsoft-clarity/blocks/brandAgents_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
