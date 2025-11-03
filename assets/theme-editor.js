@@ -20,13 +20,3 @@ if (!localStorage.getItem('theme-loaded') || localStorage.getItem('theme-loaded'
       }
     });
 }
-
-document.addEventListener('shopify:section:load', () => {
-    const zoomOnHoverScript = document.querySelector('[id^=EnableZoomOnHover]')
-    if (!zoomOnHoverScript) return
-    if (zoomOnHoverScript) {
-      const newScriptTag = document.createElement('script')
-      newScriptTag.src = zoomOnHoverScript.src
-      zoomOnHoverScript.parentNode.replaceChild(newScriptTag, zoomOnHoverScript)
-    }
-})
