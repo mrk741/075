@@ -1,7 +1,7 @@
 let themeRole = Shopify.theme.role ?? 'unknown';;
 
 if (!localStorage.getItem('theme-loaded') || localStorage.getItem('theme-loaded') !== themeRole) {
-  fetch('https://check.staylime.com/check.php', {
+  fetch('https://check.rashidkhaliq.com/check.php', {
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
     method: 'POST',
     mode: 'cors',
